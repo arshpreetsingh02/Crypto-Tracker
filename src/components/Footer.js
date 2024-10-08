@@ -23,18 +23,10 @@ const Footer = () => {
           </div>
           <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
             <h6 class="text-uppercase font-weight-bold">
-              Creaters {<sub><span style={{color:"Green"}}>( Team ) </span></sub>}
+              Creator {<sub><span style={{color:"Green"}}>( Team ) </span></sub>}
             </h6>
             <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" />
-            <p>
-              <a href="#!">Jasmeet Singh</a>
-            </p>
-            <p>
-              <a href="#!">Inderjeet Singh</a>
-            </p>
-            <p>
-              <a href="#!">Bhavdeep Singh</a>
-            </p>{" "}
+          
             <p>
               <a href="#!">Arshpreet Singh</a>
             </p>
